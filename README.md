@@ -11,9 +11,9 @@ The purpose of this project is to provide insights into the threat landscape by 
 
 ## Features
 
-- **Interactive Dashboard**: Displays threat data in a clean, visually appealing layout.
-- **Charts**: Includes a **pie chart** and **bar graph** representing threat levels across different domains.
-- **Data Table**: A table showing detailed domain threat data including:
+- Interactive Dashboard: Displays threat data in a clean, visually appealing layout.
+- Charts: Includes a **pie chart** and **bar graph** representing threat levels across different domains.
+- Data Table: A table showing detailed domain threat data including:
   - Domain Name
   - Threat Level
   - Count of Threats
@@ -22,12 +22,12 @@ The purpose of this project is to provide insights into the threat landscape by 
 
 ## Technologies Used
 
-- **Flask**: For backend API and serving HTML templates.
-- **Plotly**: For creating interactive charts.
-- **Pandas**: For handling data manipulation.
-- **Matplotlib**: For chart creation.
-- **HTML/CSS**: For building the frontend.
-- **Bootstrap (optional)**: For styling (if needed).
+- Flask: For backend API and serving HTML templates.
+- Plotly: For creating interactive charts.
+- Pandas: For handling data manipulation.
+- Matplotlib: For chart creation.
+- HTML/CSS: For building the frontend.
+- Bootstrap (optional): For styling (if needed).
 
 ## Requirements
 
